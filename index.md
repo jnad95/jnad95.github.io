@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jnad95/jnad95.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Contact
+You can connect with me on 
+[twitter](https://twitter.com/jn_ad95)
+[Facebook](https://www.facebook.com/jn.ad1995)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
