@@ -1,40 +1,69 @@
-## Welcome to GitHub Pages
+# Aditya Jain
 
-## Contact
-You can connect with me on 
-[twitter](https://twitter.com/jn_ad95)
-[Facebook](https://www.facebook.com/jn.ad1995)
+#### Email: jn.ad1995@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Mobile: +91-8982166550, +91-9131527554
 
-### Markdown
+## Past Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Amazon SDE
+#### Projects
+1. TokenizationService FileUpload API
+  Skills: Java
+  
+2. PayeeCopService 
+  Skills: Java
 
-```markdown
-Syntax highlighted code block
+3. PayeeDataSupportService: BulkUpdateTool
+  Skills: Kotlin
 
-# Header 1
-## Header 2
-### Header 3
+4. Intercetor Reconciliation
+  Skills: Python
 
-- Bulleted
-- List
+5. BackFillTool
 
-1. Numbered
-2. List
+### Amazon DevOps
+#### Projects
+1. AFT Configuration Workflow
+  Skills: Java
 
-**Bold** and _Italic_ and `Code` text
+2. In Transporation Front-end Development
+  Skills: NojeJS, CSS, HTML
 
-[Link](url) and ![Image](src)
-```
+3. Monitoring Template Library
+  Created a python library for
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Personal Projects
+####	Log Cascade: Hackathon Project
+Single query-able log retrieval solution for all the related services
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jnad95/jnad95.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+####	Web Crawler
 
-### Support or Contact
+Web Crawler is a bot designed to fetch the relevant information from the web. It is a software built in Java which takes a keyword as input and search the specific region in the Web for information containing pages(links/websites), and afterward it ranks the Pages and gives the best possible result. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+####	Single Sensor Black Line Tracer 
+
+Black Line tracer is a robot which traces the path which is laid using black color. The robot uses only one sensor to detect the black path and two motors are used to traverse the path. 
+
+## Technical Skills
+Java, Python, C, C++, JavaScript, NodeJS, Kotlin, ReactJS, 
+
+MySQL, PostGRE SQL, SQS, SNS, S3,
+
+Spring, Guice, Hibernate, Guava,
+
+Flask, Django, REST, SOAP
+
+
+
+
+| Degree / Certificate | Institution	| % / CGPA | Year |
+|--------------------|--------------|---------|------|
+| B. E. Computer Science Engineering|	Laxmi Narain College of Technology & Science, Bhopal | 7.6 | 2017 |
+| 12th: CBSE | Christ Church Boys’ Senior Secondary School, Jabalpur | 84.6% | 2013 |
+| 10th: CBSE | Christ Church Boys’ Senior Secondary School, Jabalpur | 8.0 | 2011 |
+
+
+
