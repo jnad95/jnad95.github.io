@@ -7,34 +7,48 @@
 ## Past Experience
 
 ### Amazon SDE
-#### Projects
-1. TokenizationService FileUpload API
-  Skills: Java
+
+### Projects
+
+#### TokenizationService FileUpload API
+
+Skills: Java
   
-2. PayeeCopService 
-  Skills: Java
+#### PayeeCopService 
 
-3. PayeeDataSupportService: BulkUpdateTool
-  Skills: Kotlin
+Skills: Java
 
-4. Intercetor Reconciliation
-  Skills: Python
+#### PayeeDataSupportService: BulkUpdateTool
 
-5. BackFillTool
+Skills: Kotlin
+
+#### Intercetor Reconciliation
+
+Skills: Python
+
+#### BackFillTool
+
+Skills: 
+
 
 ### Amazon DevOps
-#### Projects
-1. AFT Configuration Workflow
-  Skills: Java
+### Projects
+#### AFT Configuration Workflow
 
-2. In Transporation Front-end Development
-  Skills: NojeJS, CSS, HTML
+Skills: Java
 
-3. Monitoring Template Library
-  Created a python library for
+#### In Transporation Front-end Development
+
+Skills: NojeJS, CSS, HTML
+
+#### Monitoring Template Library
+
+Skills: Python
 
 ## Personal Projects
+
 ####	Log Cascade: Hackathon Project
+
 Single query-able log retrieval solution for all the related services
 
 
@@ -57,7 +71,7 @@ Spring, Guice, Hibernate, Guava,
 Flask, Django, REST, SOAP
 
 
-
+## Education
 
 | Degree / Certificate | Institution	| % / CGPA | Year |
 |--------------------|--------------|---------|------|
