@@ -3,9 +3,8 @@
 #### Email: jn.ad1995@gmail.com
 
 #### Mobile: +91-8982166550, +91-9131527554
-
-## Past Experience
-
+--------------------------------------------------
+## Professional Experience
 ### Amazon SDE
 
 ### Projects
@@ -30,9 +29,11 @@ Skills: Python
 
 Skills: 
 
-
+--------------------------------------------------
 ### Amazon DevOps
+
 ### Projects
+
 #### AFT Configuration Workflow
 
 Skills: Java
@@ -45,6 +46,7 @@ Skills: NojeJS, CSS, HTML
 
 Skills: Python
 
+--------------------------------------------------
 ## Personal Projects
 
 ####	Log Cascade: Hackathon Project
@@ -61,6 +63,7 @@ Web Crawler is a bot designed to fetch the relevant information from the web. It
 
 Black Line tracer is a robot which traces the path which is laid using black color. The robot uses only one sensor to detect the black path and two motors are used to traverse the path. 
 
+--------------------------------------------------
 ## Technical Skills
 Java, Python, C, C++, JavaScript, NodeJS, Kotlin, ReactJS, 
 
@@ -70,7 +73,7 @@ Spring, Guice, Hibernate, Guava,
 
 Flask, Django, REST, SOAP
 
-
+--------------------------------------------------
 ## Education
 
 | Degree / Certificate | Institution	| % / CGPA | Year |
